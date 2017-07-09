@@ -1,0 +1,1 @@
+{"SourceTables":["source1","source2"],"TargetTable":"target1","ReconSourceTable":"source1","ReconCriteria":"EQUAL"}
